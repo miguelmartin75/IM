@@ -277,10 +277,10 @@ Lists all chat rooms on a server, showing whether they are password protected or
 $ /list
 ```
 
->	| NAME				 | PASSWORD PROTECTED? 	 |
->	|:------------------|:---------------------|
->	| Awesome Chat Room | NO					 |
->	| Cheese Factory    | YES		 			 |
+| NAME		    | PASSWORD PROTECTED?  |
+|:------------------|:---------------------|
+| Awesome Chat Room | NO		   |
+| Cheese Factory    | YES                  |
 
 
 To make a chat participant an admin, use the command op:
